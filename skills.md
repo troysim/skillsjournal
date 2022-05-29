@@ -9,3 +9,5 @@ These are my prominent technical skills
 - Cloud Platforms - AWS, GCP, Azure
 
 - Containers - Docker, Kubernetes
+
+- IAC - Terraform
